@@ -1,0 +1,75 @@
+{
+  "manufacturer": "gaf",
+  "display_name": "GAF",
+  "version": "2026-09-draft-3",
+  "status": "DRAFT - built from a general understanding of GAF's Certified / Master Elite contractor programs (licensed, insured, reputable, quality-committed, top-tier volume). Not verified against GAF's current program terms. Confirm criteria and weights with GAF / the distributor before relying on scores.",
+  "context": "GAF is the largest US roofing manufacturer. Its core business is residential steep-slope shingles (Timberline line), with a commercial low-slope line (TPO, modified bitumen). The ideal contractor for GAF is a licensed, insured, reputable roofer who does a steady volume of residential re-roofs and installs GAF systems rather than a competitor's.",
+  "criteria": [
+    {
+      "id": "product_fit",
+      "name": "Product fit",
+      "weight": 25,
+      "measures": "How much of the contractor's actual work is what GAF sells: residential steep-slope shingle replacement and repair.",
+      "guide": {
+        "high": "Predominantly residential re-roofing / shingle work (reviews and permits describe re-roofs of houses, small multi-family).",
+        "mid": "Mixed residential and commercial, or residential work that is mostly repairs, or premium materials (slate, tile, metal) alongside shingles.",
+        "low": "Mostly commercial, flat/low-slope, sheet metal, waterproofing or non-roofing trades."
+      }
+    },
+    {
+      "id": "volume",
+      "name": "Project volume",
+      "weight": 20,
+      "measures": "How many roofing jobs they take on; proxy for how much product they buy.",
+      "guide": {
+        "high": "Roughly 20+ distinct roofing-related permit jobs in the last 24 months, or clear evidence of a large, busy operation (a large directory review count, recent reviews, a sizeable crew).",
+        "mid": "Roughly 5-20 roofing jobs in 24 months, or a healthy review count with no permit data.",
+        "low": "Little sign of current work: few reviews, none recent, and a very small crew. Permits are a lower bound (most residential re-roofs are never filed), so an empty permit search alone is NOT low volume; recent reviews of completed roofs are direct evidence of current work."
+      }
+    },
+    {
+      "id": "reputation",
+      "name": "Reputation & workmanship",
+      "weight": 20,
+      "measures": "What customers say: workmanship, leaks/defects, communication, timeliness, honoring warranties. GAF puts its name on the roof, so callbacks and complaints matter.",
+      "guide": {
+        "high": "Consistently positive across many reviews, praise for workmanship, few or no complaints about leaks, warranty or safety.",
+        "mid": "Generally positive but with recurring complaints (delays, communication) or a small review sample.",
+        "low": "Multiple complaints about leaks/defects, unhonored warranties, safety or licensing, or a poor average rating."
+      }
+    },
+    {
+      "id": "compliance",
+      "name": "Licensing & compliance",
+      "weight": 20,
+      "measures": "Holds the licenses required to operate and appears in good standing.",
+      "guide": {
+        "high": "Active required license(s) found and matched, with permits issued under the business's name.",
+        "mid": "License data unavailable for this jurisdiction or could not be matched, with no red flags (say so; score moderately with low confidence).",
+        "low": "License expired, suspended, revoked or surrendered; or reviews allege unlicensed work."
+      }
+    },
+    {
+      "id": "brand_alignment",
+      "name": "Brand alignment",
+      "weight": 10,
+      "measures": "Evidence that they actually install GAF, and are free to (not locked to a competitor such as CertainTeed or Owens Corning). NOTE: every contractor in this pipeline was found in GAF's own directory, so the listing / certification tier is the shared baseline, not evidence of preference; do not reward it.",
+      "guide": {
+        "high": "Reviews or other evidence explicitly name GAF products the contractor installed, and nothing suggests exclusivity with a competitor. (Directory listing alone never reaches this band.)",
+        "mid": "Only the directory listing, with no brand information either way (score about 55-65), or a genuine mix of several manufacturers.",
+        "low": "Clearly aligned to a competitor's program (e.g. 'we only install Owens Corning', 'Owens Corning Preferred contractor')."
+      }
+    },
+    {
+      "id": "stability",
+      "name": "Stability & tenure",
+      "weight": 5,
+      "measures": "Established business likely to still be around and paying its bills.",
+      "guide": {
+        "high": "10+ years in business, steady activity, evidence spread over several years.",
+        "mid": "3-10 years or limited history.",
+        "low": "Under ~2 years, or activity that just started or stopped."
+      }
+    }
+  ]
+}

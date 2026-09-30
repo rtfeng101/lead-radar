@@ -1,0 +1,138 @@
+{
+  "_note": "SYNTHETIC. Every review, permit and license below is invented for offline demos and tests. The businesses do not exist. Keyed by the fixture contractor's source_id.",
+
+  "fx-001": {
+    "license": {"nyc": true, "items": [{"license_nbr": "FX-0001-DCA", "status": "Active", "first_issued": "2001-05-14", "expires": "2027-02-28"}]},
+    "permits": {"nyc": true, "total_jobs": 58, "roofing_jobs": 34, "last_issued": "2026-09-02", "by_work_type": {"General Construction": 44, "Structural": 9, "Solar": 5},
+      "samples": [
+        {"issued": "2026-09-02", "work_type": "General Construction", "description": "Tear-off and replacement of existing asphalt shingle roof on 4-story residential building; new underlayment, ice and water shield, architectural shingles.", "cost": "48000"},
+        {"issued": "2026-07-19", "work_type": "General Construction", "description": "Re-roofing of 3-family dwelling with new asphalt shingles and replacement of roof flashing.", "cost": "31500"}]},
+    "reviews": [
+      {"rating": 5, "date": "2026-05-11", "platform": "Google", "text": "Harborline redid our brownstone roof in Park Slope last spring. Full tear-off, new GAF Timberline HDZ shingles, and the crew left the yard spotless. They handled the warranty registration without me asking."},
+      {"rating": 5, "date": "2026-02-27", "platform": "Google", "text": "Great communication from the estimate through the final walkthrough. The project manager sent photos every day. Roof on our 3-family house was replaced in three days."},
+      {"rating": 4, "date": "2025-11-03", "platform": "Google", "text": "Quality work, a bit pricier than two other quotes. Finished on schedule and the GAF system warranty paperwork arrived within a couple of weeks."},
+      {"rating": 5, "date": "2025-08-22", "platform": "Google", "text": "We had a leak after a big storm and they were out the next day, found a flashing problem and fixed it under warranty at no charge."},
+      {"rating": 3, "date": "2025-04-09", "platform": "Google", "text": "Roof looks great, but the crew showed up two days late and nobody called to tell us."}]
+  },
+
+  "fx-002": {
+    "license": {"nyc": true, "items": [{"license_nbr": "FX-0002-DCA", "status": "Active", "first_issued": "2007-03-01", "expires": "2027-02-28"}]},
+    "permits": {"nyc": true, "total_jobs": 47, "roofing_jobs": 26, "last_issued": "2026-08-25", "by_work_type": {"General Construction": 38, "Structural": 7, "Plumbing": 2},
+      "samples": [
+        {"issued": "2026-08-25", "work_type": "General Construction", "description": "Replace roofing on 5-story mixed-use building, low-slope modified bitumen system, and repair parapet flashing.", "cost": "92000"},
+        {"issued": "2026-06-30", "work_type": "General Construction", "description": "New roof covering on two-family residence, asphalt shingles, includes removal of existing layers.", "cost": "27000"}]},
+    "reviews": [
+      {"rating": 5, "date": "2026-06-14", "platform": "Google", "text": "They replaced the flat roof on our Brooklyn apartment building and did the shingle roof on our other house the same summer. They install both GAF and CertainTeed depending on what you want; we went with GAF Timberline."},
+      {"rating": 5, "date": "2026-01-19", "platform": "Google", "text": "Professional crew, on time, and they cleaned up every day. Good price for a 20-unit building."},
+      {"rating": 4, "date": "2025-09-30", "platform": "Google", "text": "Solid work. Scheduling took a while because they are so busy, but the roofing itself has been flawless through two winters."},
+      {"rating": 4, "date": "2025-05-02", "platform": "Google", "text": "Fair quote, decent communication. Would have liked an earlier heads-up about a delay caused by rain."}]
+  },
+
+  "fx-003": {
+    "license": {"nyc": true, "items": [{"license_nbr": "FX-0003-DCA", "status": "Active", "first_issued": "2014-09-12", "expires": "2027-02-28"}]},
+    "permits": {"nyc": true, "total_jobs": 9, "roofing_jobs": 4, "last_issued": "2026-05-06", "by_work_type": {"General Construction": 9},
+      "samples": [
+        {"issued": "2026-05-06", "work_type": "General Construction", "description": "Roof repair and patching of existing shingle roof at 2-story rowhouse.", "cost": "6800"}]},
+    "reviews": [
+      {"rating": 5, "date": "2026-03-08", "platform": "Google", "text": "Small outfit, fixed a leaking skylight and patched some shingles on our rowhouse. Honest about what needed doing and did not upsell a full roof."},
+      {"rating": 4, "date": "2025-10-17", "platform": "Google", "text": "Came out quickly for a repair. Fair price. Only did the repair, not a full replacement."},
+      {"rating": 5, "date": "2025-06-25", "platform": "Google", "text": "Friendly owner, showed up when he said he would."}]
+  },
+
+  "fx-004": {
+    "license": {"nyc": true, "items": [{"license_nbr": "FX-0004-DCA", "status": "Active", "first_issued": "1996-02-20", "expires": "2027-02-28"}]},
+    "permits": {"nyc": true, "total_jobs": 31, "roofing_jobs": 9, "last_issued": "2026-08-11", "by_work_type": {"General Construction": 18, "Structural": 8, "Mechanical Systems": 5},
+      "samples": [
+        {"issued": "2026-08-11", "work_type": "General Construction", "description": "Installation of new TPO roofing membrane on commercial loft building, with sheet metal coping and flashing.", "cost": "134000"},
+        {"issued": "2026-03-04", "work_type": "General Construction", "description": "Roof replacement of flat roof, commercial office, new roofing membrane and insulation.", "cost": "88000"}]},
+    "reviews": [
+      {"rating": 5, "date": "2026-04-21", "platform": "Google", "text": "They did the TPO roof on our commercial building and custom copper coping. Carlisle membrane, meticulous detailing. Great for flat roofs and metal work."},
+      {"rating": 4, "date": "2025-12-05", "platform": "Google", "text": "Excellent sheet metal fabrication for our loft. The roof membrane job ran about a week over the schedule."},
+      {"rating": 4, "date": "2025-07-14", "platform": "Google", "text": "Used Firestone products. Commercial specialists; we would not call them for a house re-roof."}]
+  },
+
+  "fx-005": {
+    "license": {"nyc": true, "items": [{"license_nbr": "FX-0005-DCA", "status": "Active", "first_issued": "2011-06-30", "expires": "2027-02-28"}]},
+    "permits": {"nyc": true, "total_jobs": 16, "roofing_jobs": 11, "last_issued": "2026-08-01", "by_work_type": {"General Construction": 14, "Structural": 2},
+      "samples": [
+        {"issued": "2026-08-01", "work_type": "General Construction", "description": "Replace existing roof with new asphalt shingle roof on 2-family house, including gutters.", "cost": "24500"}]},
+    "reviews": [
+      {"rating": 5, "date": "2026-07-02", "platform": "Google", "text": "New shingle roof and gutters on our Astoria two-family. They are an Owens Corning Preferred contractor and only install Owens Corning; the roof looks great and the warranty came through."},
+      {"rating": 4, "date": "2026-01-08", "platform": "Google", "text": "Good crew and a clean job. Only offers Owens Corning shingles, so no other options."},
+      {"rating": 5, "date": "2025-09-12", "platform": "Google", "text": "Fast, fair, and the roof has held up through the winter."},
+      {"rating": 4, "date": "2025-03-30", "platform": "Google", "text": "Responsive to calls, finished in two days."}]
+  },
+
+  "fx-006": {
+    "license": {"nyc": false},
+    "permits": {"nyc": false},
+    "reviews": [
+      {"rating": 5, "date": "2026-08-09", "platform": "Google", "text": "Palisade Peak installed a GAF Timberline roof on our Union City home. They are a GAF Master Elite contractor, so we got the enhanced warranty. Crew was neat and fast."},
+      {"rating": 5, "date": "2026-05-28", "platform": "Google", "text": "Excellent workmanship, and they explained the whole GAF system (underlayment, ridge caps, starter strip) before we signed."},
+      {"rating": 5, "date": "2026-02-02", "platform": "Google", "text": "Third roof they have done for our family. Always on time, always tidy."},
+      {"rating": 4, "date": "2025-10-19", "platform": "Google", "text": "Also did the roof prep for our solar install. Great job overall, slightly slow returning the first call."},
+      {"rating": 5, "date": "2025-06-06", "platform": "Google", "text": "Best roofer we have used. Fair price, careful with our landscaping."}]
+  },
+
+  "fx-007": {
+    "license": {"nyc": true, "items": [{"license_nbr": "FX-0007-DCA", "status": "Expired", "first_issued": "2020-01-15", "expires": "2025-02-28"}]},
+    "permits": {"nyc": true, "total_jobs": 3, "roofing_jobs": 1, "last_issued": "2025-03-17", "by_work_type": {"General Construction": 3},
+      "samples": [
+        {"issued": "2025-03-17", "work_type": "General Construction", "description": "Roof replacement at 2-story residence.", "cost": "12000"}]},
+    "reviews": [
+      {"rating": 1, "date": "2026-06-03", "platform": "Google", "text": "Roof started leaking within a month of the repair. They stopped returning calls and refused to come back under the warranty they promised."},
+      {"rating": 2, "date": "2026-01-22", "platform": "Google", "text": "Crew no-showed twice and left debris all over the yard. When I asked about their license they said it had 'lapsed' but they would renew it soon."},
+      {"rating": 3, "date": "2025-08-11", "platform": "Google", "text": "Work was okay but the price kept going up after they started."},
+      {"rating": 4, "date": "2025-02-05", "platform": "Google", "text": "Decent job on a small repair, cheap."}]
+  },
+
+  "fx-008": {
+    "license": {"nyc": false},
+    "permits": {"nyc": false},
+    "reviews": [
+      {"rating": 5, "date": "2026-07-15", "platform": "Google", "text": "They handled our storm damage claim from start to finish and replaced our roof with IKO shingles. Insurance adjuster had nothing but good things to say."},
+      {"rating": 2, "date": "2026-03-01", "platform": "Google", "text": "Roof itself is fine but the final invoice was much higher than the estimate and it took weeks to sort out."},
+      {"rating": 4, "date": "2025-11-20", "platform": "Google", "text": "Good with commercial and residential storm work. Communication could be better."},
+      {"rating": 4, "date": "2025-05-18", "platform": "Google", "text": "Fixed hail damage on our warehouse roof and our house."}]
+  },
+
+  "fx-009": {
+    "license": {"nyc": true, "items": [{"license_nbr": "FX-0009-DCA", "status": "Active", "first_issued": "2016-10-04", "expires": "2027-02-28"}]},
+    "permits": {"nyc": true, "total_jobs": 22, "roofing_jobs": 19, "last_issued": "2026-09-10", "by_work_type": {"General Construction": 22},
+      "samples": [
+        {"issued": "2026-09-10", "work_type": "General Construction", "description": "Re-roofing of one-family dwelling, remove existing shingles and install new asphalt shingle roof.", "cost": "19800"},
+        {"issued": "2026-08-14", "work_type": "General Construction", "description": "Replace existing roof covering on 2-story residence with new architectural shingles.", "cost": "22400"}]},
+    "reviews": [
+      {"rating": 5, "date": "2026-08-30", "platform": "Google", "text": "Shingle specialists. They put a GAF Timberline roof on our Staten Island colonial in a single day. Neat, quick, and the price was fair."},
+      {"rating": 5, "date": "2026-04-16", "platform": "Google", "text": "This is all they do, residential shingle roofs, and they are very good at it. GAF shingles, GAF warranty registered for us."},
+      {"rating": 4, "date": "2025-12-12", "platform": "Google", "text": "Great job, crew was professional. Scheduling was booked out about a month."},
+      {"rating": 5, "date": "2025-07-07", "platform": "Google", "text": "Third neighbor on our block to use them. Nobody has had a problem."}]
+  },
+
+  "fx-010": {
+    "license": {"nyc": false},
+    "permits": {"nyc": false},
+    "reviews": [
+      {"rating": 5, "date": "2026-06-02", "platform": "Google", "text": "They restored the original slate roof on our 1920s Garden City Tudor and replaced the copper flashing. Extraordinary craftsmanship."},
+      {"rating": 5, "date": "2026-01-30", "platform": "Google", "text": "Historic restoration experts. Slate, tile and copper. Not the cheapest, and it is worth every dollar."},
+      {"rating": 5, "date": "2025-09-04", "platform": "Google", "text": "Repaired our slate after storm damage and matched the old tiles perfectly. They also do asphalt shingles for garages and outbuildings."},
+      {"rating": 4, "date": "2025-04-27", "platform": "Google", "text": "Beautiful work, though the waiting list is long."}]
+  },
+
+  "fx-011": {
+    "license": {"nyc": false},
+    "permits": {"nyc": false},
+    "reviews": [
+      {"rating": 5, "date": "2026-08-01", "platform": "Google", "text": "Fixed our roof leak fast."}]
+  },
+
+  "fx-012": {
+    "license": {"nyc": false},
+    "permits": {"nyc": false},
+    "reviews": [
+      {"rating": 4, "date": "2026-07-21", "platform": "Google", "text": "They installed a GAF EverGuard TPO roof on our 40-unit apartment building. Solid installation, though the project ran three weeks longer than quoted."},
+      {"rating": 4, "date": "2026-03-13", "platform": "Google", "text": "Specialists in multi-family and low-slope roofs. Also work with Carlisle. Good but pricey."},
+      {"rating": 3, "date": "2025-10-08", "platform": "Google", "text": "Roof is fine but the crew was hard to reach during the project and change orders were confusing."},
+      {"rating": 5, "date": "2025-04-01", "platform": "Google", "text": "Reliable for commercial flat-roof repairs. Have used them for years."}]
+  }
+}

@@ -1,0 +1,16 @@
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: leadgen
+      POSTGRES_PASSWORD: leadgen
+      POSTGRES_DB: leadgen
+    ports: ["5433:5432"]
+    volumes: ["pgdata:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U leadgen"]
+      interval: 5s
+      retries: 10
+
+volumes:
+  pgdata:
